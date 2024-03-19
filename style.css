@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+section {
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  gap: 100px;
+  flex-wrap: wrap;
+  background-color: lightskyblue;
+  height: 200vh;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+  justify-content: center;
+  align-items: center;
+}
