@@ -1,3 +1,1 @@
 - Ersin Mutlu
-
-hebele
